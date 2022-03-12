@@ -1,0 +1,28 @@
+.container {
+    justify-items: center;
+}
+.header {
+    justify-content: center;
+    text-align: center;
+}
+.game {
+    background-color: #34393E;
+    justify-content: space-between;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: orange;
+    height: 170px;
+    width: 300px;
+}
+.btn {
+    background-color: orange;
+    color: black;
+}
+.btn-another{
+    background-color: red;
+    text-decoration: none;
+    color: black;
+    border: 2px black;
+    padding: 2px;
+}
